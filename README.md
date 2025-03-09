@@ -31,4 +31,4 @@ This project shows how to use multiple linear regression to predict Sales Foreca
 
 # Live
 
-  
+  https://multiplylinearregression-gajrbd47fnwx3zhxadkfwe.streamlit.app/
